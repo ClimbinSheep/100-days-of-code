@@ -2,10 +2,10 @@
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've completed the JS calculator 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. JS-Calculator (https://github.com/ClimbinSheep/Projects/commit/b20a11dbab1dffe3b663a369e5adbaab6c815ad6)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
