@@ -60,11 +60,12 @@
 ----------------------------------------------------------------------
 ### Day 5: Jan 10th, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: Added API functionality to the random quote generator.
 
-** Thoughts**
+** Thoughts**: Need to learn how to use api/ getJSON calls better. 
 
 **Link(s) to work**
+[random quote machine](https://github.com/ClimbinSheep/Projects/commit/dbed77406b5f0f6d8983c2628d4f0d46b76b542a)
 
 ----------------------------------------------------------------------
 ### Day 6: Jan 11th, Wednesday
