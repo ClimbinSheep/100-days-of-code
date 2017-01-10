@@ -60,12 +60,13 @@
 ----------------------------------------------------------------------
 ### Day 5: Jan 10th, Tuesday
 
-**Today's Progress**: Added API functionality to the random quote generator.
+**Today's Progress**: Added API functionality to the random quote generator. Also created a copy with Chuck Norris joke generator.
 
 ** Thoughts**: Need to learn how to use api/ getJSON calls better. 
 
 **Link(s) to work**
 [random quote machine](https://github.com/ClimbinSheep/Projects/commit/dbed77406b5f0f6d8983c2628d4f0d46b76b542a)
+[Chuck Norris joke generator](https://github.com/ClimbinSheep/Projects/commit/721e62e22944233d8f44010a4bff607b99da528f)
 
 ----------------------------------------------------------------------
 ### Day 6: Jan 11th, Wednesday
