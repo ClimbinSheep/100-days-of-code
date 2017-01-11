@@ -71,11 +71,12 @@
 ----------------------------------------------------------------------
 ### Day 6: Jan 11th, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Added titles to the existing projects and completed functinality of the weather app. finished reading coersion and now reading grammar of YDKJS.
 
-** Thoughts**
+** Thoughts**: getting more used to doing API calls. Reading YDKJS help me learn ternary opperators so used two in the weather app. Very concise bits of code.
 
 **Link(s) to work**
+[weather app commit](https://github.com/ClimbinSheep/Projects/commit/5b4fc05674b016ea698c5308fce22d4aec32435f)
 
 ----------------------------------------------------------------------
 ### Day 7: Jan 5th, Thursday
