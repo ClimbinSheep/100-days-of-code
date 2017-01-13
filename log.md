@@ -79,7 +79,28 @@
 [weather app commit](https://github.com/ClimbinSheep/Projects/commit/5b4fc05674b016ea698c5308fce22d4aec32435f)
 
 ----------------------------------------------------------------------
-### Day 7: Jan 5th, Thursday
+### Day 7: Jan 12th, Thursday
+
+**Today's Progress**: Working on the CSS on a few sites. Leaning about '@media' and responsive design'
+
+** Thoughts**: Need to work more on CSS. Display: flex seems to break 'col-md-6' formatting.
+
+**Link(s) to work**
+1.[responsive calculator](https://github.com/ClimbinSheep/Projects/commit/281fcb176309268ca659ff5be330ee8b4b665eeb)
+2.[CSS for Pomodoro and ChuckNoris sites](https://github.com/ClimbinSheep/Projects/commit/3413d3fe7e5da05ca7137ff6c21f36a1d0fa8de5)
+
+----------------------------------------------------------------------
+### Day 8: Jan 13th, Friday
+
+**Today's Progress**: completed day 1 and 2 on the PureCSS chaalanges
+
+** Thoughts**: really cool way to do things. Trying to get everything good without using clippy or px definitions is hard work.
+
+**Link(s) to work**
+1.[PureCSS challenges 1 and 2](https://github.com/ClimbinSheep/Projects/commit/5074ffd0060648c871efe407f5af4d1640a83085)
+
+----------------------------------------------------------------------
+### Day 9: Jan 14th, Saturday
 
 **Today's Progress**:
 
@@ -88,7 +109,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 8: Jan 12th, Friday
+### Day 10: Jan 15th, Sunday
 
 **Today's Progress**:
 
@@ -97,7 +118,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 9: Jan 13th, Saturday
+### Day 2: Jan 16th, Monday
 
 **Today's Progress**:
 
@@ -106,25 +127,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 10: Jan 14th, Sunday
-
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
-----------------------------------------------------------------------
-### Day 2: Jan 15th, Monday
-
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
-----------------------------------------------------------------------
-### Day 2: Jan 16th, Tuesday
+### Day 2: Jan 17th, Tuesday
 
 **Today's Progress**:
 
