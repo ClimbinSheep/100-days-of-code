@@ -102,29 +102,29 @@
 ----------------------------------------------------------------------
 ### Day 9: Jan 14th, Saturday
 
-**Today's Progress**:
+**Today's Progress**: installed nodejs on laptop, migrated learnyounode. did p9.js
 
-** Thoughts**
+** Thoughts**: 
 
-**Link(s) to work**
+**Link(s) to work** 
 
 ----------------------------------------------------------------------
 ### Day 10: Jan 15th, Sunday
 
-**Today's Progress**:
+**Today's Progress**: Rebuilding my portfolio site using google material design
 
-** Thoughts**
+** Thoughts**: Material design is very clever.
 
-**Link(s) to work**
+**Link(s) to work** [New Portfolio site](https://climbinsheep.github.io/Portfolio_site/)
 
 ----------------------------------------------------------------------
-### Day 2: Jan 16th, Monday
+### Day 11: Jan 16th, Monday
 
-**Today's Progress**:
+**Today's Progress**: Daily Pure CSS image - beaver
 
-** Thoughts**
+** Thoughts**: natural shapes are hard to do in css.
 
-**Link(s) to work**
+**Link(s) to work** [PureCSS](https://github.com/ClimbinSheep/Projects/commit/844616d32dc44436e200d0c457da78648002ffbb)
 
 ----------------------------------------------------------------------
 ### Day 2: Jan 17th, Tuesday
