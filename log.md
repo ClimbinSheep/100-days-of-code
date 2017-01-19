@@ -111,7 +111,7 @@
 ----------------------------------------------------------------------
 ### Day 10: Jan 15th, Sunday
 
-**Today's Progress**: Rebuilding my portfolio site using google material design
+**Today's Progress**: Rebuilding my portfolio site using google material design.
 
 ** Thoughts**: Material design is very clever.
 
@@ -127,7 +127,35 @@
 **Link(s) to work** [PureCSS](https://github.com/ClimbinSheep/Projects/commit/844616d32dc44436e200d0c457da78648002ffbb)
 
 ----------------------------------------------------------------------
-### Day 2: Jan 17th, Tuesday
+### Day 12: Jan 17th, Tuesday
+
+**Today's Progress**: Working on portfolio site again. Got it hosted on Github now along with the rest of the projects. Added basic email me contact form but will create a email server to avoid the current solution.
+
+** Thoughts**: good to get portfolio hosted and project websites on there too.
+
+**Link(s) to work**
+1. [Portfolio Site](samwCoding.github.io)
+
+----------------------------------------------------------------------
+### Day 13: Jan 17th, Wednesday
+
+**Today's Progress**: Learning express.js through nodeschool
+
+** Thoughts**: express.js seems to be pretty good. need to do a lot of practice.
+
+**Link(s) to work**
+
+----------------------------------------------------------------------
+### Day 14: Jan 18th, Thursday
+
+**Today's Progress**: Working on pure CSS day 4-6. tried the MongoDB tutorial but it didnt work on the office pc.
+
+** Thoughts**:
+
+**Link(s) to work**:
+
+----------------------------------------------------------------------
+### Day 15: Jan 19th, Friday
 
 **Today's Progress**:
 
@@ -136,34 +164,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 2: Jan 17th, Wednesday
-
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
-----------------------------------------------------------------------
-### Day 2: Jan 18th, Thursday
-
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
-----------------------------------------------------------------------
-### Day 3: Jan 19th, Friday
-
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
-----------------------------------------------------------------------
-### Day 4: Jan 20th, Saturday
+### Day 16: Jan 20th, Saturday
 
 **Today's Progress**:
 
