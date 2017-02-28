@@ -163,7 +163,7 @@
 
 **Link(s) to work**
 ----------------------------------------------------------------------
-### Day 16: Jan 21st, Saturday
+### Day 15: Jan 21st, Saturday
 
 **Today's Progress**: Trying to get a custom form onto my website so that users dont get redirected off of my site.
 
@@ -181,7 +181,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 17: Jan 23rd, Monday
+### Day 16: Jan 23rd, Monday
 
 **Today's Progress**: Only a small amount of work done on my portfolio website
 
@@ -190,7 +190,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 18: Jan 24th, Tuesday
+### Day 17: Jan 24th, Tuesday
 
 **Today's Progress**: Finally got my wikipedia viewer working. Still cant figure out cross origin PUT requests.
 
@@ -199,7 +199,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 19: Jan 25th, Wednesday
+### Day 18: Jan 25th, Wednesday
 
 **Today's Progress**: starting with my twitch stream checker. Got the request working, just need to improve the design.
 
@@ -208,7 +208,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 20: Jan 26th, Thursday
+### Day 19: Jan 26th, Thursday
 
 **Today's Progress**: Still fighting with CORS PUT request for my profolio site. I will move onto something else tomorrow.
 
@@ -217,7 +217,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 21: Jan 27th, Friday
+### Day 20: Jan 27th, Friday
 
 **Today's Progress**: Working on my pure css images 
 
@@ -226,7 +226,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 22: Jan 28th, Saturday
+### Day 21: Jan 28th, Saturday
 
 **Today's Progress**: finishing off my twitch stream checker. added functionality to hide streams that arent active.
 
@@ -237,14 +237,8 @@
 ----------------------------------------------------------------------
 ### FAIL DAY: Jan 29th, Sunday
 
-**Today's Progress**:
-
-** Thoughts**
-
-**Link(s) to work**
-
 ----------------------------------------------------------------------
-### Day 23: Jan 30th, Monday
+### Day 22: Jan 30th, Monday
 
 **Today's Progress**: Working on catching up on my pure css, almost fininshed the first week and will be uploading them tomorrow
 
@@ -253,7 +247,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 24: Jan 31st, Tuesday
+### Day 23: Jan 31st, Tuesday
 
 **Today's Progress**: Working on my Pure CSS of a cartoon character. This is taking a lot longer than I expencted. 
 
@@ -262,7 +256,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 25: Feb 1st, Wednesday
+### Day 24: Feb 1st, Wednesday
 
 **Today's Progress**: Finally finished my favourite cartoon character 
 
@@ -271,7 +265,7 @@
 **Link(s) to work** [Top Cat](https://pbs.twimg.com/media/C3kV8DuWIAAGPqA.jpg)
 
 ----------------------------------------------------------------------
-### Day 26: Feb 2nd, Thursday
+### Day 25: Feb 2nd, Thursday
 
 **Today's Progress**: Completed 3 more FCC advanced algorithms and started to learn React.
 
@@ -289,7 +283,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 27: Feb 4th, Saturday
+### Day 26: Feb 4th, Saturday
 
 **Today's Progress**: Made a simple Clock using pure css and got it functioning with JavaScript
 
@@ -298,7 +292,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 28: Feb 5th, Sunday
+### Day 27: Feb 5th, Sunday
 
 **Today's Progress**: Started doing the Pure CSS tape measure
 
@@ -307,7 +301,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 29: Feb 6th, Monday
+### Day 28: Feb 6th, Monday
 
 **Today's Progress**: Started my Shopping List web app using Firebase.
 
@@ -325,7 +319,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 30: Feb 8th, Wednesday
+### Day 29: Feb 8th, Wednesday
 
 **Today's Progress**: Learning React 
 
@@ -334,7 +328,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 31: Feb 9th, Thursday
+### Day 30: Feb 9th, Thursday
 
 **Today's Progress**: More learning React. Got into the Chingu Cohort which is great.
 
@@ -343,7 +337,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 32: Feb 10th, Friday
+### Day 31: Feb 10th, Friday
 
 **Today's Progress**: Still trying to get to grips with React
 
@@ -355,7 +349,7 @@
 ### FAIL DAY: Feb 11th, Saturday
 
 ----------------------------------------------------------------------
-### Day 33: Feb 12th, Sunday
+### Day 32: Feb 12th, Sunday
 
 **Today's Progress**: Spent the day cleaning up and updating my Portfolio page and a few of my project sites.
 
@@ -364,7 +358,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 34: Feb 13th, Monday
+### Day 33: Feb 13th, Monday
 
 **Today's Progress**: Building the Simon game for FCC, got the latout, just need to add the JavaScript funcitonality.
 
@@ -373,7 +367,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 35: Feb 14th, Tuesday
+### Day 34: Feb 14th, Tuesday
 
 **Today's Progress**: almost finished my Simon game functionality. Little things keep it from working well.
 
@@ -382,7 +376,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 36: Feb 15th, Wednesday
+### Day 35: Feb 15th, Wednesday
 
 **Today's Progress**: Completed the SoloLearn JavaScript course - learnt a few cool things.
 
@@ -391,7 +385,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 37: Feb 16th, Thursday
+### Day 36: Feb 16th, Thursday
 
 **Today's Progress**: Learning more React with hysterical-amusement.surge.sh . Done all of the React section but leaving redux until later.
 
@@ -400,7 +394,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 38: Feb 17th, friday
+### Day 37: Feb 17th, friday
 
 **Today's Progress**: Did a few of the JavaScript 30 projects, the array workout videos are great. 
 
@@ -409,7 +403,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 39: Feb 18th, Saturday
+### Day 38: Feb 18th, Saturday
 
 **Today's Progress**: Workign on my Simon Game again
 
@@ -418,7 +412,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 40: Feb 19th, Sunday
+### Day 39: Feb 19th, Sunday
 
 **Today's Progress**: almost Finished my simon game, just need to add sound. 
 
@@ -427,7 +421,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 41: Feb 20th, Monday
+### Day 40: Feb 20th, Monday
 
 **Today's Progress**: Working on the AI fro the tic-tac-toe game.
 
@@ -436,7 +430,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 42: Feb 21st, Tuesday
+### Day 41: Feb 21st, Tuesday
 
 **Today's Progress**: modified a JS30 tutorial to make a rainbow whitboard.
 
@@ -445,7 +439,7 @@
 **Link(s) to work** [rainbow whiteboard](tiny.cc/7kndjy)
 
 ----------------------------------------------------------------------
-### Day 43: Feb 22nd, Wednesday
+### Day 42: Feb 22nd, Wednesday
 
 **Today's Progress**: Made my first React app over the last 2 days - a markdown previewer
 
@@ -454,7 +448,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 44: Feb 23rd, Thursday
+### Day 43: Feb 23rd, Thursday
 
 **Today's Progress**: added an upload function to the markdown previewer
 
@@ -466,7 +460,7 @@
 ### FAIL DAY: Feb 24th, Friday
 
 ----------------------------------------------------------------------
-### Day 45: Feb 25th, Saturday
+### Day 44: Feb 25th, Saturday
 
 **Today's Progress**: Converting my portfolio ot React
 
@@ -475,7 +469,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 46: Feb 26th, Sunday
+### Day 45: Feb 26th, Sunday
 
 **Today's Progress**: started group work on a momentum based chrome extension 
 
@@ -484,7 +478,7 @@
 **Link(s) to work**
 
 ----------------------------------------------------------------------
-### Day 47: Feb 27th, Monday
+### Day 46: Feb 27th, Monday
 
 **Today's Progress**: making good progress converting my portfolio to React. Just need to create a footer and convert the projects into components
 
@@ -495,7 +489,7 @@
 **Link(s) to work** [React Profile Page](https://samwcoding.github.io/reactPortfolio/)
 
 ----------------------------------------------------------------------
-### Day 2: Feb 28th, Tuesday
+### Day 47: Feb 28th, Tuesday
 
 **Today's Progress**:
 
